@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: Academic # Website name
 baseurl: 'http://sefaozalp.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Sefa Ozalp' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
