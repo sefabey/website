@@ -14,7 +14,7 @@ weight: 15
 
 title: Hugo Academic Theme Demo
 subtitle:
-
+active:false
 design:
   columns: "1"
   background:
