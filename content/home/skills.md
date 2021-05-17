@@ -31,7 +31,7 @@ feature:
 - description:
   icon: python
   icon_pack: fab
-  name: python
+  name: Python
 - description:
   icon: database
   icon_pack: fas
@@ -39,11 +39,11 @@ feature:
 - description:
   icon: code-branch
   icon_pack: fas
-  name: git
+  name: Git
 - description:
   icon: docker
   icon_pack: fab
-  name: docker
+  name: Docker
 - description:
   icon: paragraph
   icon_pack: fas
