@@ -33,6 +33,10 @@ feature:
   icon_pack: fab
   name: python
 - description:
+  icon: database
+  icon_pack: fas
+  name: Databases
+- description:
   icon: code-branch
   icon_pack: fas
   name: git
@@ -40,7 +44,18 @@ feature:
   icon: docker
   icon_pack: fab
   name: docker
-
+- description:
+  icon: paragraph
+  icon_pack: fas
+  name: NLP applications
+- description:
+  icon: comments-dollar
+  icon_pack: fas
+  name: Hate Speech
+- description:
+  icon: journal-whills
+  icon_pack: fas
+  name: Academic Publication Records
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
