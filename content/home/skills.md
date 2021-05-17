@@ -30,7 +30,7 @@ feature:
   name: Artificial Intelligence
 - description:
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: python
 - description:
   icon: code-branch
@@ -38,7 +38,7 @@ feature:
   name: git
 - description:
   icon: docker
-  icon_pack: fas
+  icon_pack: fab
   name: docker
 
 
