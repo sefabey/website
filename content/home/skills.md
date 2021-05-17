@@ -55,7 +55,7 @@ feature:
 - description:
   icon: journal-whills
   icon_pack: fas
-  name: Academic Publication Records
+  name: Academic Publication Trach Record
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
