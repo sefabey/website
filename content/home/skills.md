@@ -32,6 +32,15 @@ feature:
   icon: python
   icon_pack: fas
   name: python
+- description:
+  icon: code-branch
+  icon_pack: fas
+  name: git
+- description:
+  icon: docker
+  icon_pack: fas
+  name: docker
+
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
