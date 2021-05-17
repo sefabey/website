@@ -20,8 +20,8 @@ interests:
 - Certified Software Carpentries Instructor (https://carpentries.org/regions_uk/)
 organizations:
 - name: HateLab, Cardiff University
-  url: https://hatelab.net/
-role: Associate Data Science Researcher
+  url: https://hatelab.net/people
+role: Data Science Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,4 +47,4 @@ title: Sefa Ozalp
 Sefa Ozalp is an experienced data science researcher who has worked on complex socio-technical projects across academia, government and fintech. As a data scientist, Sefa has led and successfully delivered multiple data science and Natural Language Processing (NLP) projects for high-calibre institutions which are leaders in their respective fields. At HateLab, Sefa was central to the running of a £3M programme of work, collating numerous big datasets from multiple online platforms using APIs and bespoke collection methods, devising and supervising large-scale data annotation tasks, building machine learning models to detect online hate speech in short text, and analysing online hate trends using novel statistical information propagation models and data visualisation methods. Sefa has published on online antisemitism, racist and anti-Muslim hate speech and other forms of online harms in top academic journals. His work has been referenced in various national British media outlets, including ITV’s Exposure, The Guardian and others. He is currently completing a PhD on the propagation and mitigation of anti-Muslim online hate speech in the aftermath of terror attacks. Sefa likes cycling and playing video games (not competitively).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
