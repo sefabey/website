@@ -1,27 +1,27 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Experienced data scientist interested in applications of ML and NLP on societal issues.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Social Data Science
+    institution: Cardiff University
+    year: 2017-Current
+  - course: MSc in Crime, Safety and Justice
+    institution: Cardiff University
+    year: 2015
+  - course: BSc in Systems Engineering
+    institution: TMA
+    year: 2010
+email: "ozalpas@cardiff.ac.uk"
 highlight_name: false
 interests:
+- Detection and Propagation of Cyberhate
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Certified Software Carpentries Instructor (https://carpentries.org/regions_uk/)
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: HateLab, Cardiff University
+  url: https://hatelab.net/
+role: Associate Data Science Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +31,20 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/sefaozalp
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=cb6PpqoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-superuser: true
-title: Nelson Bighetti
+  link: https://github.com/sefabey
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4104-1541 
+title: Sefa Ozalp
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sefa Ozalp is an experienced data science researcher who has worked on complex socio-technical projects across academia, government and fintech. As a data scientist, Sefa has led and successfully delivered multiple data science and Natural Language Processing (NLP) projects for high-calibre institutions which are leaders in their respective fields. At HateLab, Sefa was central to the running of a £3M programme of work, collating numerous big datasets from multiple online platforms using APIs and bespoke collection methods, devising and supervising large-scale data annotation tasks, building machine learning models to detect online hate speech in short text, and analysing online hate trends using novel statistical information propagation models and data visualisation methods. Sefa has published on online antisemitism, racist and anti-Muslim hate speech and other forms of online harms in top academic journals. His work has been referenced in various national British media outlets, including ITV’s Exposure, The Guardian and others. He is currently completing a PhD on the propagation and mitigation of anti-Muslim online hate speech in the aftermath of terror attacks. Sefa likes cycling and playing video games (not competitively).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
